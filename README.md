@@ -13,7 +13,7 @@ Wayland does not work! You have to select X11. If you are using the desktop, rem
 ## Install
 `sudo apt install git`
 
-`git clone https://github.com/katzenjens/lcd32.git`
+`git clone https://github.com/LoiLock/lcd32.git`
 
 `cd lcd32`
 ## for 3.2 or 2.8 inch tft (320 x 240 px):
