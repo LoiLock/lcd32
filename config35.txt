@@ -55,7 +55,7 @@ enable_uart=1
 # Enable audio (loads snd_bcm2835)
 dtparam=audio=on
 
-dtoverlay=waveshare35a:rotate=90
+dtoverlay=waveshare35b-v2:rotate=90
 #dtoverlay=ads7846,cs=1,penirq=17,penirq_pull=2,speed=1000000,keep_vref_on=1,swapxy=0,pmax=255,xohms=60,xmin=2>
 hdmi_force_hotplug=1
 #max_usb_current=1
